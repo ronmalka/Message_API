@@ -1,5 +1,5 @@
 # MESSAGE API
-POSMAN LINK : https://documenter.getpostman.com/view/15212272/TzCQa68u#b87bd8e1-ac4f-4aa8-a827-cd9565c132fc
+POSMAN LINK : https://documenter.getpostman.com/view/15212272/TzCQaRcq
 
 HOSTED LINK : https://pacific-stream-26613.herokuapp.com/
 
