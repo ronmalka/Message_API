@@ -10,7 +10,7 @@ Running Instructions:
 2. please note that the signup and login method already run, and the rest of te request methods is rely on the token from this session,
 if you are intrested to signup a new user and login or to login again to exist user, please take the token from response of the login reques and replace it in the header Authorization for every request that you like to run
 
-Postman Examples Explenation:
+Postman Examples Explanation:
 --------------------
 
 1. /signup :
